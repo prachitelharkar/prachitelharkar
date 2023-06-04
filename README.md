@@ -2,6 +2,7 @@
 
 <h1 align="start">Hi there👋</h1>
 <h3 align="start">I'm Prachi. Passionate about web development.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 - 📫 How to reach me **telharkarprachi@gmail.com**
